@@ -1,3 +1,5 @@
+<p align='center'><a href='https://www.eventbrite.com/e/ship-production-pytorch-system-in-a-day-train-optimize-deploy-workshop-tickets-1983348934052?aff=GitHub'><img src='https://static.packt-cdn.com/assets/images/packt+events/workshop_ashish_github.png'/></a></p>
+
 # Dancing with Qubits, Second Edition
 This is the code repository for [Dancing with Qubits, Second Edition](https://www.packtpub.com/product/dancing-with-qubits/9781838827366), published by Packt.
 
